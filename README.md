@@ -1,3 +1,10 @@
+Below is my rejected "Homework Assignment" with LaunchDarkly. Instructions follow screenshots of my solution.
+
+<img src="list.png" width="650px"></img>
+<img src="detail.png" width="650px"></img>
+
+---
+
 ## Coding test
 
 This repository contains a small application that consumes test score data and exposes the data via a REST API.  Your job is to build a UI on top of the API, based on provided wireframes.
